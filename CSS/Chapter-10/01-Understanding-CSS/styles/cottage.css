@@ -1,0 +1,23 @@
+em,
+u {
+  padding: 3px;
+  border: 2px solid #82c2b3;
+}
+
+h1,
+p {
+  font-family: "Product Sans";
+  color: #5b4d41;
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid #f1641e;
+}
+
+body {
+  border: 2px solid #f1641e;
+  padding: 5px;
+}
+
+p {
+  line-height: 1.6;
+}

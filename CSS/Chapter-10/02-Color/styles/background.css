@@ -1,0 +1,23 @@
+h1 {
+  background-color: darkcyan;
+  color: white;
+  padding: 15px;
+}
+
+h2 {
+  background-color: #ee3e80;
+  color: white;
+  padding: 15px;
+}
+
+p {
+  background: white;
+  color: #9f9895;
+  padding: 15px;
+}
+
+body {
+  background-color: rgb(200, 200, 200);
+  padding: 10px;
+  margin: 15px;
+}

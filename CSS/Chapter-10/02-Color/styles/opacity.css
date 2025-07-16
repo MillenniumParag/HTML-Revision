@@ -1,0 +1,23 @@
+body {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e42a6e;
+  display: flex;
+}
+
+.first {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.5;
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+}
+
+.last {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.1;
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+}
